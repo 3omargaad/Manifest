@@ -1,0 +1,113 @@
+{
+  "language": "Java",
+  "keys": [
+    {
+      "id": 0,
+      "label": "For Loop",
+      "type": "macro",
+      "sequence": "for (int i = 0; i < n; i++) {\n    \n}\n",
+      "keystroke": "",
+      "custom_value": "",
+      "enabled": true
+    },
+    {
+      "id": 1,
+      "label": "While",
+      "type": "macro",
+      "sequence": "while (condition) {\n    \n}\n",
+      "keystroke": "",
+      "custom_value": "",
+      "enabled": true
+    },
+    {
+      "id": 2,
+      "label": "Method",
+      "type": "macro",
+      "sequence": "public void methodName() {\n    \n}\n",
+      "keystroke": "",
+      "custom_value": "",
+      "enabled": true
+    },
+    {
+      "id": 3,
+      "label": "Class",
+      "type": "macro",
+      "sequence": "public class MyClass {\n    public MyClass() {\n    }\n}\n",
+      "keystroke": "",
+      "custom_value": "",
+      "enabled": true
+    },
+    {
+      "id": 4,
+      "label": "Try/Catch",
+      "type": "macro",
+      "sequence": "try {\n    \n} catch (Exception e) {\n    e.printStackTrace();\n}\n",
+      "keystroke": "",
+      "custom_value": "",
+      "enabled": true
+    },
+    {
+      "id": 5,
+      "label": "Switch",
+      "type": "macro",
+      "sequence": "switch (val) {\n    case 1:\n        break;\n    default:\n        break;\n}\n",
+      "keystroke": "",
+      "custom_value": "",
+      "enabled": true
+    },
+    {
+      "id": 6,
+      "label": "Sysout",
+      "type": "macro",
+      "sequence": "System.out.println(\"\");",
+      "keystroke": "",
+      "custom_value": "",
+      "enabled": true
+    },
+    {
+      "id": 7,
+      "label": "Interface",
+      "type": "macro",
+      "sequence": "public interface MyInterface {\n    void method();\n}\n",
+      "keystroke": "",
+      "custom_value": "",
+      "enabled": true
+    },
+    {
+      "id": 8,
+      "label": "Key 8",
+      "type": "macro",
+      "sequence": "",
+      "keystroke": "",
+      "custom_value": "",
+      "enabled": false
+    },
+    {
+      "id": 9,
+      "label": "Key 9",
+      "type": "macro",
+      "sequence": "",
+      "keystroke": "",
+      "custom_value": "",
+      "enabled": false
+    },
+    {
+      "id": 10,
+      "label": "Key 10",
+      "type": "macro",
+      "sequence": "",
+      "keystroke": "",
+      "custom_value": "",
+      "enabled": false
+    },
+    {
+      "id": 11,
+      "label": "Key 11",
+      "type": "macro",
+      "sequence": "",
+      "keystroke": "",
+      "custom_value": "",
+      "enabled": false
+    }
+  ]
+}

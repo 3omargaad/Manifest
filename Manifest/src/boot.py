@@ -12,4 +12,4 @@ storage.disable_usb_drive()
 # usb_cdc.disable()
 
 # Enable HID (keyboard) — this is on by default but stated explicitly for clarity
-usb_hid.enable(usb_hid.BOOT_DEVICE_KEYBOARD)
+usb_hid.enable((usb_hid.BOOT_DEVICE_KEYBOARD, usb_hid.Device.CONSUMER_CONTROL))

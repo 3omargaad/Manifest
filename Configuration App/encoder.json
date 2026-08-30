@@ -1,0 +1,12 @@
+{
+  "clockwise": {
+    "label": "Volume Up",
+    "type": "volume_up",
+    "value": ""
+  },
+  "counter_clockwise": {
+    "label": "Volume Down",
+    "type": "volume_down",
+    "value": ""
+  }
+}
